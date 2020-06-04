@@ -1,0 +1,5 @@
+# Packages to be installed in virtual env
+
+Pip install qgrid seaborn pydicom Pillow scikit-image scipy opencv-python more-itertools sklearn utils
+
+# Make sure to obtain rads_keras from Z:/hurt_files/code/tools/rads_keras then copy to virtualenv lib folder 
